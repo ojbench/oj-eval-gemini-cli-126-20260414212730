@@ -4,6 +4,7 @@
 #include <vector>
 #include <string>
 #include <algorithm>
+#include <cstdint>
 
 inline int row = -1, col = -1;
 inline std::vector<uint32_t> live_cells;
